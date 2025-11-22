@@ -9,4 +9,5 @@
 1. Stored-Program Concept
 - Both data and instructions are stored in the same main memory (RAM).
 
-2. 
+2. Components
+-  
