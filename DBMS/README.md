@@ -17,3 +17,5 @@ Flexibility |	Stricter - fewer schedules qualify	| More flexible - more schedule
 Blind Writes |	Not allowed	| Allowed
 Testing Method	| Precedence graph (check for cycles)	| Polygraph or view equivalence rules
 Performance	| Easier to check	| Harder to check (NP-complete)
+
+Ref: [Gate Smashers Lec 82](https://youtu.be/s8QlJoL1G6w?si=QZqc1YWRXkQf18Rj), 83, 84, 85
