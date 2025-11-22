@@ -9,6 +9,8 @@
 1. Stored-Program Concept
 - Both data and instructions are stored in the same main memory (RAM).
 
+![images](https://github.com/DeviprasadShetty9833/Sem_III_Notes/blob/23aef3064bc453f481943a05e02ed83c772249b0/DLCOA/assets/VonNeumann.png)
+
 2. Components
 - Central Processing Unit (CPU): The brain of the computer. It consists of:
   - Arithmetic Logic Unit (ALU): Performs all mathematical calculations (add, subtract) and logical operations (AND, OR, NOT).
