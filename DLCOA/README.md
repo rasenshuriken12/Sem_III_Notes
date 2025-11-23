@@ -22,12 +22,6 @@
 - Input/Output (I/O) Systems: Allow the computer to communicate with the external world (e.g., keyboard, mouse, monitor, printer).
 - System Bus: A single communication path that connects all the major components.
 
-## Communication between CPU & memory
-- Access data or instructions in memory - CPU -> memory location -> Address bus
-- CPU -> read/write signal -> Control bus
-- For Writing - CPU -> data thru data bus -> [Memory Controller] -> Memory Location    ...(Opp for Reading)
-
-
 
 ### **Module 5: Memory Organization**
 
