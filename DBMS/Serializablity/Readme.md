@@ -19,3 +19,10 @@ A possible schedule:
 **Serializability** = The result should look like one teller finished before the other started, even if they actually worked at the same time.
 
 > “Run transactions in parallel, but make the result look serial.”
+
+| Feature | Serial | Non-Serial |Serializable | 
+|--|--|--|--|
+| Execution | One by one | Interleaved | Interleaved |
+| Concurrency | ❌ No | ✔ Yes | ✔ Yes |
+| Correctness | ✔ Always | ❌ Not guaranteed | ✔ Guaranteed
+| Performance | ❌ Slow | ✔ Fast | ✔ Fast + Safe
